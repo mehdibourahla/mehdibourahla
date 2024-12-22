@@ -8,6 +8,10 @@
 
 I'm a Machine Learning and Software Engineering professional with expertise in designing scalable AI solutions and data infrastructure. Currently serving as Chief AI Officer at InfinitGraph, I focus on building robust AI-driven solutions in healthcare informatics. Fulbright Scholar with an MS in Artificial Intelligence from UNC Charlotte.
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=mehdibourahla&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
 ## 🔧 Technologies & Tools
 
 ### Languages
