@@ -35,7 +35,7 @@ Fulbright Scholar (MSc AI, UNC Charlotte). Co-author of a paper in *Nature Scien
 ### 📚 Selected work & writing
 
 - **Publication** — *SocialBit: A lightweight deep learning framework for predicting social interaction duration using wearable sensor data.* Nature Scientific Reports (2026). LSTM and Transformer architectures, AUC 0.94 on 153 post-stroke patients. NIH-funded (R01HD099176).
-- **Speaking** — 16+ talks, ~1,520 people trained. Highlights: PyData Montréal (2025), Algeria 2.0 (12th edition, 2025), GeekConf Blida (2025), ECSEL Expo (2025), 10 sessions for the U.S. Embassy Algiers on AI ecosystem development.
+- **Speaking** — 16+ talks, ~1,520 people trained. Highlights: PyData Montréal (2026), Algeria 2.0 (12th edition, 2025), GeekConf Blida (2025), ECSEL Expo (2025), 10 sessions for the U.S. Embassy Algiers on AI ecosystem development.
 - **Past role** — Technical Co-founder at **Infinitgraph.ai** (Aug 2024 – Dec 2025): semantic search platform over 100,000+ academic abstracts, built on FastAPI · Qdrant · Google Cloud Run · Redis.
 
 ---
